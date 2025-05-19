@@ -12,6 +12,14 @@
                 "description": "深言达意是一个提供词汇检索和句子查找的在线平台，帮助用户快速找到合适的词语和句子，提升写作效率。"
             },
             {
+                "title": "喜欢书签 – 找网站更简单",
+                "url": "https://www.likebookmark.com/",
+                "icon": "",
+                "categories": "生活办公",
+                "tags": "网址导航,网址大全,网站大全,导航网站,书签导航",
+                "description": "likebookmark.com喜欢书签网址导航，按用户思维逐一整理优秀网站，持续更新优质链接。"
+            },
+            {
                 "title": "LocalSend: 开源跨平台的AirDrop替代方案",
                 "url": "https://github.com/localsend/localsend",
                 "icon": "https://github.com/favicon.ico",
