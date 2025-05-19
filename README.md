@@ -27,7 +27,7 @@ Collector 是一个简约个人导航站点，帮助您高效管理和分类收�
 
 ## 使用方法
 
-1. [点此 Fork](https://github.com/wefantasy/collector/fork) 这个项目到你的 GitHub 账户
+1. [点此 Fork](https://github.com/wujiongs/collector/fork) 这个项目到你的 GitHub 账户
 2. 在你 Fork 的仓库下点击 `Actions` -> `I understand my workflows, go ahead and enable them` 启动流水线
 3. 点击 `Actions` -> `Build and Deploy` -> `Run workflow`，选择 `main` 分支并运行流水线，**等待运行完成**
 4. 在 `Settings` -> `Pages` -> `Branch` 中选择 `gh-pages` 分支并 `Save`
